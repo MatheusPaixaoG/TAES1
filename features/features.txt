@@ -12,4 +12,4 @@ Requested additional step
 
 Scenario 3
 
-Scenario 4
+Adjusted scenario 4
