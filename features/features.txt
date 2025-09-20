@@ -6,7 +6,7 @@ Scenario 2
 
 Failure scenario 1
 
-Failure scenario 2
+Adjusted failure scenario 2
 
 Requested additional step
 
