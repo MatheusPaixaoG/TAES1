@@ -2,4 +2,6 @@ Some feature
 
 Scenario 1
 
-Scenario 
+Scenario 2
+
+Failure scenario 1
