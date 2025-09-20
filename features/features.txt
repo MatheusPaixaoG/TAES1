@@ -5,3 +5,5 @@ Scenario 1
 Scenario 2
 
 Failure scenario 1
+
+Failure scenario 2
