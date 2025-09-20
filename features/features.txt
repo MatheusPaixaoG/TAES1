@@ -9,3 +9,7 @@ Failure scenario 1
 Failure scenario 2
 
 Requested additional step
+
+Scenario 3
+
+Scenario 4
