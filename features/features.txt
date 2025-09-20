@@ -7,3 +7,5 @@ Scenario 2
 Failure scenario 1
 
 Failure scenario 2
+
+Scenario 3
